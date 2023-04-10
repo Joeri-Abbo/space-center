@@ -20,7 +20,7 @@
     "@babel/core": "^7.21.4",
     "@types/react": "~18.0.33",
     "@types/react-native": "~0.71.5",
-    "typescript": "~5.0.3"
+    "typescript": "~5.0.4"
   },
   "private": true
 }
